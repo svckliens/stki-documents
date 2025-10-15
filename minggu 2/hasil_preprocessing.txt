@@ -1,16 +1,16 @@
 === HASIL PARSING ===
 
-yang menjadi salah satu syarat untuk bisa ujian kompre adalah sertifikat toeic
+assalamualaikum wr wb yang menjadi salah satu syarat untuk bisa ujian kompre ada sertifikat toeic
 sehingga jika belum lulus toeic maka tidak bisa melakukan ujian kompre saya rasa ini sangat menghambat
 temanteman yang memang lemah dibidang bahasa inggris atau yang kurang beruntung dalam ujian toeicnya
-sehingga mereka tidak bisa fokus untuk ujian komprenya
+sehingga mereka tidak bisa fokus untuk ujian komprenya terima kasih
 
 
 === HASIL TOKENISASI ===
-['yang', 'menjadi', 'salah', 'satu', 'syarat', 'untuk', 'bisa', 'ujian', 'kompre', 'adalah', 'sertifikat', 'toeic', 'sehingga', 'jika', 'belum', 'lulus', 'toeic', 'maka', 'tidak', 'bisa', 'melakukan', 'ujian', 'kompre', 'saya', 'rasa', 'ini', 'sangat', 'menghambat', 'temanteman', 'yang', 'memang', 'lemah', 'dibidang', 'bahasa', 'inggris', 'atau', 'yang', 'kurang', 'beruntung', 'dalam', 'ujian', 'toeicnya', 'sehingga', 'mereka', 'tidak', 'bisa', 'fokus', 'untuk', 'ujian', 'komprenya']
+['assalamualaikum', 'wr', 'wb', 'yang', 'menjadi', 'salah', 'satu', 'syarat', 'untuk', 'bisa', 'ujian', 'kompre', 'ada', 'sertifikat', 'toeic', 'sehingga', 'jika', 'belum', 'lulus', 'toeic', 'maka', 'tidak', 'bisa', 'melakukan', 'ujian', 'kompre', 'saya', 'rasa', 'ini', 'sangat', 'menghambat', 'temanteman', 'yang', 'memang', 'lemah', 'dibidang', 'bahasa', 'inggris', 'atau', 'yang', 'kurang', 'beruntung', 'dalam', 'ujian', 'toeicnya', 'sehingga', 'mereka', 'tidak', 'bisa', 'fokus', 'untuk', 'ujian', 'komprenya', 'terima', 'kasih']
 
 === HASIL STOPWORD REMOVAL ===
-['yang', 'menjadi', 'salah', 'satu', 'syarat', 'ujian', 'kompre', 'sertifikat', 'toeic', 'sehingga', 'belum', 'lulus', 'toeic', 'tidak', 'melakukan', 'ujian', 'kompre', 'rasa', 'sangat', 'menghambat', 'temanteman', 'memang', 'lemah', 'dibidang', 'bahasa', 'inggris', 'yang', 'kurang', 'beruntung', 'ujian', 'toeicnya', 'sehingga', 'tidak', 'bisa', 'fokus', 'ujian', 'komprenya']
+['assalamualaikum', 'wr', 'wb', 'menjadi', 'salah', 'satu', 'syarat', 'ujian', 'kompre', 'sertifikat', 'toeic', 'sehingga', 'belum', 'lulus', 'toeic', 'tidak', 'melakukan', 'ujian', 'kompre', 'rasa', 'sangat', 'menghambat', 'temanteman', 'memang', 'lemah', 'dibidang', 'bahasa', 'inggris', 'yang', 'kurang', 'beruntung', 'ujian', 'toeicnya', 'sehingga', 'tidak', 'bisa', 'fokus', 'ujian', 'komprenya', 'terima', 'kasih']
 
 === HASIL STEMMING ===
-['yang', 'jadi', 'salah', 'satu', 'syarat', 'uji', 'kompre', 'sertifikat', 'toeic', 'sehingga', 'belum', 'lulus', 'toeic', 'tidak', 'laku', 'uji', 'kompre', 'rasa', 'sangat', 'hambat', 'temanteman', 'memang', 'lemah', 'bidang', 'bahasa', 'inggris', 'yang', 'kurang', 'untung', 'uji', 'toeicnya', 'sehingga', 'tidak', 'bisa', 'fokus', 'uji', 'komprenya']
+['assalamualaikum', 'wr', 'wb', 'jadi', 'salah', 'satu', 'syarat', 'uji', 'kompre', 'sertifikat', 'toeic', 'sehingga', 'belum', 'lulus', 'toeic', 'tidak', 'laku', 'uji', 'kompre', 'rasa', 'sangat', 'hambat', 'temanteman', 'memang', 'lemah', 'bidang', 'bahasa', 'inggris', 'yang', 'kurang', 'untung', 'uji', 'toeicnya', 'sehingga', 'tidak', 'bisa', 'fokus', 'uji', 'komprenya', 'terima', 'kasih']
